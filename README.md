@@ -4,4 +4,5 @@ This project aim to apply Node.js with Express.js to create blog website and sto
 ## You can try it out at below link
 
 > https://mysterious-tundra-64831.herokuapp.com/
-> Click Compost to create new post.
+
+- Click Compost to create new post.
